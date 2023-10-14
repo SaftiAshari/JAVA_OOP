@@ -1,2 +1,24 @@
-package com.Safti.chap7;public class Product {
+package com.Safti.chap7;
+
+public class Product {
+    private final  String name;
+    private final  int price;
+    public Product(String name,int price)
+    {
+         this.name=name;
+         this.price=price;
+    }
+    public  int getPrice()
+    {
+        return  this.price;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "name='" + name + '\'' +
+                ", price=" + price +
+                '}';
+    }
 }
