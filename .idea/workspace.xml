@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95b97ce9-ccbe-4d85-b178-fa448606e9c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Safti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/chap7/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/chap7/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/chap7/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/chap7/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/chap7/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Safti/chap7/Dimension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Safti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/chap7/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/chap7/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +28,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -60,6 +53,12 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/All Practice/JAVA_OOP/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
+    ]
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,23 +73,53 @@
       <workItem from="1697289165672" duration="2233000" />
       <workItem from="1697295992988" duration="2217000" />
       <workItem from="1697298276184" duration="2878000" />
-      <workItem from="1697311563570" duration="998000" />
+      <workItem from="1697311563570" duration="2364000" />
+      <workItem from="1697345899824" duration="279000" />
+      <workItem from="1697347145354" duration="1186000" />
+      <workItem from="1697348360729" duration="641000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
