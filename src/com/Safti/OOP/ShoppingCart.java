@@ -1,4 +1,4 @@
-package com.Safti.chap7;
+package com.Safti.OOP;
 import java.util.*;
 public class ShoppingCart {
     private ArrayList<Product>products=new ArrayList<>();

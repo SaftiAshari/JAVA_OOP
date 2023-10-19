@@ -1,4 +1,4 @@
-package com.Safti.chap7;
+package com.Safti.OOP;
 
 public class Product {
     private  static final int SHIPPING_RATE=5;

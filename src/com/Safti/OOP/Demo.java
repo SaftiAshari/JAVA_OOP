@@ -1,4 +1,4 @@
-package com.Safti.chap7;
+package com.Safti.OOP;
 
 public class Demo {
     public static void main(String[] args) {

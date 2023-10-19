@@ -1,4 +1,4 @@
-package com.Safti.chap7;
+package com.Safti.OOP;
 
 public class CheckingAccount {
     private final String accountNumber;

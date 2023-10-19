@@ -1,4 +1,4 @@
-package com.Safti.chap7;
+package com.Safti.OOP;
 
 public class SavingsAccount extends CheckingAccount {
     private final double ineterestRate;

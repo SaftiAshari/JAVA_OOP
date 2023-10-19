@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95b97ce9-ccbe-4d85-b178-fa448606e9c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/chap7/Dimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Safti/ExceptionHandelling/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Safti/ExceptionHandelling/TryBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Safti/OOP/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Safti/OOP/DemoDigitalProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Safti/OOP/DigitalProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Safti/OOP/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Safti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/chap7/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/chap7/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Dimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/Dimension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,33 +42,37 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2WkoO6SlPAU3uGHInZMRT8HzucV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/All Practice/JAVA_OOP/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/All Practice/JAVA PROGRAMMING",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/All Practice/JAVA_OOP/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +88,14 @@
       <workItem from="1697311563570" duration="2364000" />
       <workItem from="1697345899824" duration="279000" />
       <workItem from="1697347145354" duration="1186000" />
-      <workItem from="1697348360729" duration="641000" />
+      <workItem from="1697348360729" duration="2012000" />
+      <workItem from="1697389122345" duration="271000" />
+      <workItem from="1697520690151" duration="472000" />
+      <workItem from="1697521176889" duration="180000" />
+      <workItem from="1697521365536" duration="618000" />
+      <workItem from="1697560895276" duration="399000" />
+      <workItem from="1697650115407" duration="1709000" />
+      <workItem from="1697694867787" duration="2797000" />
     </task>
     <servers />
   </component>
@@ -120,6 +139,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
