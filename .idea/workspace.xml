@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95b97ce9-ccbe-4d85-b178-fa448606e9c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/ExceptionHandelling/ExceptionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/ExceptionHandelling/TryBlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/OOP/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/OOP/DemoDigitalProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/OOP/DigitalProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Safti/OOP/SavingsAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Dimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/Dimension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Safti/chap7/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Safti/OOP/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Safti/ExceptionHandelling/Text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +82,7 @@
       <workItem from="1697521365536" duration="618000" />
       <workItem from="1697560895276" duration="399000" />
       <workItem from="1697650115407" duration="1709000" />
-      <workItem from="1697694867787" duration="2797000" />
+      <workItem from="1697694867787" duration="3118000" />
     </task>
     <servers />
   </component>
