@@ -1,2 +1,6 @@
-package com.Safti.OOP;public class Vehicles {
+package com.Safti.OOP;
+
+public class Vehicles {
+    int noOfWheels=4;
 }
+
